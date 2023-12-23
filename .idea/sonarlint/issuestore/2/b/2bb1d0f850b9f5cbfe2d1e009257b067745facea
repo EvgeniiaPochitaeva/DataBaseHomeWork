@@ -1,0 +1,8 @@
+
+»
+java:S6548
+"A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(Ρ°Ω®ώÿÿÿÿ8η£ΤΆΗ1
+Z
+java:S1854/"8Remove this useless assignment to local variable "conn".(γάρϋÿÿÿÿ8ξ£ΤΆΗ1
+K
+java:S1481/")Remove this unused "conn" local variable.(γάρϋÿÿÿÿ8ο£ΤΆΗ1
