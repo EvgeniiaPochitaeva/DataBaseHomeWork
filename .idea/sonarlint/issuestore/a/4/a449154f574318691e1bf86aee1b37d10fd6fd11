@@ -1,0 +1,18 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Üªšï8¤ˆàÄÇ1
+g	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(æ¾İøüÿÿÿÿ8¥ˆàÄÇ1
+g	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(Æ¿ÜÚùÿÿÿÿ8¥ˆàÄÇ1
+g	java:S112T"FDefine and throw a dedicated exception instead of using a generic one.(İşÄŠúÿÿÿÿ8¥ˆàÄÇ1
+g	java:S112l"FDefine and throw a dedicated exception instead of using a generic one.(€şØÿÿÿÿÿ8÷…òÄÇ1
+r	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à³Áıÿÿÿÿ8¥ˆàÄÇ1
+r	java:S117v"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à³Áıÿÿÿÿ8ù…òÄÇ1
+i
+java:S2095-"GUse try-with-resources or close this "Statement" in a "finally" clause.(‰ğ—Çıÿÿÿÿ8¿§òÄÇ1
+i
+java:S2095Z"GUse try-with-resources or close this "Statement" in a "finally" clause.(‰ğ—Çıÿÿÿÿ8ºˆàÄÇ1
+i
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‰ğ—Çıÿÿÿÿ8ºˆàÄÇ1
+i
+java:S2095D"GUse try-with-resources or close this "Statement" in a "finally" clause.(‰ğ—Çıÿÿÿÿ8ºˆàÄÇ1
+i
+java:S2095r"GUse try-with-resources or close this "Statement" in a "finally" clause.(‰ğ—Çıÿÿÿÿ8ºˆàÄÇ1
